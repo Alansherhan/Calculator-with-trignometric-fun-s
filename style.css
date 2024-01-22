@@ -1,7 +1,8 @@
+
 .calc{
     width: 400px;
     height: 600px;
-    background: grey;
+    background: rgb(178, 172, 172);
     margin-left: 400px;
     text-align:centre;
 }
@@ -35,3 +36,12 @@
     margin-left: 400px;
     font-size: 25px;
 }
+.link{
+   font-size: 22px;
+    margin-left: 46px;
+    background-color:grey ;
+    width: 250px;
+    height: 28px;
+
+}
+

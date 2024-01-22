@@ -1,0 +1,37 @@
+.calc{
+    width: 400px;
+    height: 600px;
+    background: grey;
+    margin-left: 400px;
+    text-align:centre;
+}
+#screen{
+    width: 80%;
+    margin-left: 36px;
+    
+    height: 74px;
+
+    margin-top: 12px;
+
+    pointer-events: none;
+
+    font-size: 46px;
+}
+.btn{
+    width: 92px;
+   
+    height: 67px;
+  
+    margin-left: 4px;
+
+    margin-top: 30px;
+
+    background: bisque ;
+
+    font-size: 50px;
+    
+}
+.name{
+    margin-left: 400px;
+    font-size: 25px;
+}

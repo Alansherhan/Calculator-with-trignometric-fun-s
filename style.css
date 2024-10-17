@@ -10,7 +10,7 @@
     width: 80%;
     margin-left: 36px;
     
-    height: 74px;
+    height: 70px;
 
     margin-top: 12px;
 
@@ -37,11 +37,8 @@
     font-size: 25px;
 }
 .link{
-   font-size: 22px;
-    margin-left: 46px;
-    background-color:grey ;
-    width: 250px;
-    height: 28px;
-
+    background-color:grey;
+    height: 25px;
+    font-size:25px; 
 }
 
